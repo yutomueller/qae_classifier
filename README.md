@@ -81,8 +81,3 @@ qae_image_classification/
   [arXiv:2502.15254](https://arxiv.org/abs/2502.15254)
 
 ---
-
-## 🙏 Acknowledgement
-
-This implementation is deeply inspired by the above paper.  
-We sincerely thank the authors for their contribution to expanding the possibilities of quantum machine learning.

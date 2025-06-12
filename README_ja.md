@@ -77,5 +77,3 @@ qae_image_classification/
 
 - **Quantum Autoencoders for Image Classification**  
   [arXiv:2502.15254](https://arxiv.org/abs/2502.15254)
-
-本実装は、上記論文に深く着想を得て構築されました。量子機械学習の可能性を広げるこの研究に感謝いたします。

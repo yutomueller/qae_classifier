@@ -1,4 +1,5 @@
 import numpy as np
+from sklearn.decomposition import PCA
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit, transpile
 from qiskit_aer import AerSimulator
 from scipy.optimize import minimize
